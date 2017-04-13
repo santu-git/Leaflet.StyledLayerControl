@@ -1,26 +1,23 @@
 {
-  "name": "Leaflet.StyledLayerControl",
-  "version": "0.0.1",
-  "description": "Labels for leaflet maps",
-  "license": "MIT",
-  "devDependencies": {
-    "jshint": "~2.1.4",
-    "uglify-js": "~2.3.6"
-  },
-  "dependencies": {
-    "leaflet": "^0.7.7" 
-  },
-  "main": "src/styledLayerControl.js",
-  "scripts": {
-    "test": "jake test",
-    "prepublish": "jake"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:santu-git/Leaflet.StyledLayerControl.git"
-  },
-  "keywords": [
-  "gis",
-  "map"
-  ]
+	"name": "Leaflet.StyledLayerControl",
+	"version": "0.0.1",
+	"description": "Leaflet.StyledLayerControl",
+	"license": "MIT",
+	"devDependencies": {
+		"jshint": "~2.1.4",
+		"uglify-js": "~2.3.6"
+	},
+	"dependencies": {
+		"leaflet": "^0.7.7"
+ 	},
+	"main": "src/styledLayerControl.js",
+	"scripts": {
+		"test": "jake test",
+		"prepublish": "jake"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:santu-git/Leaflet.StyledLayerControl.git"
+	},
+	"keywords": ["gis", "map"]
 }

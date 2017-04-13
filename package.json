@@ -7,7 +7,7 @@
     "jshint": "~2.1.4",
     "uglify-js": "~2.3.6"
   },
-  dependencies: {
+  "dependencies": {
     "leaflet": "^0.7.7" 
   },
   "main": "src/styledLayerControl.js",

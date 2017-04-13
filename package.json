@@ -1,7 +1,7 @@
 {
-	"name": "Leaflet.StyledLayer",
+	"name": "Leaflet.StyledLayerControl",
 	"version": "0.2.1",
-	"description": "Leaflet.StyledLayer",
+	"description": "Leaflet.StyledLayerControl",
 	"license": "MIT",
 	"devDependencies": {
 		"jshint": "~2.1.4",

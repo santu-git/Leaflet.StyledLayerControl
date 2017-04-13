@@ -1,7 +1,7 @@
 {
-	"name": "Leaflet.StyledLayerControl",
-	"version": "0.0.1",
-	"description": "Leaflet.StyledLayerControl",
+	"name": "leaflet.label",
+	"version": "0.2.4",
+	"description": "Labels for leaflet maps",
 	"license": "MIT",
 	"devDependencies": {
 		"jshint": "~2.1.4",
@@ -10,14 +10,14 @@
 	"dependencies": {
 		"leaflet": "^0.7.7"
  	},
-	"main": "src/styledLayerControl.js",
+	"main": "dist/leaflet.label.js",
 	"scripts": {
 		"test": "jake test",
 		"prepublish": "jake"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:santu-git/Leaflet.StyledLayerControl.git"
+		"url": "git://github.com/Leaflet/Leaflet.label.git"
 	},
 	"keywords": ["gis", "map"]
 }

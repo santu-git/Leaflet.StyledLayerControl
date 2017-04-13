@@ -10,7 +10,7 @@
 	"dependencies": {
 		"leaflet": "^0.7.7"
  	},
-	"main": "dist/leaflet.label.js",
+	"main": "src/styledLayerControl.js",
 	"scripts": {
 		"test": "jake test",
 		"prepublish": "jake"

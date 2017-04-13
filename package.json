@@ -1,7 +1,7 @@
 {
 	"name": "Leaflet.StyledLayer",
-	"version": "0.2.4",
-	"description": "Labels for leaflet maps",
+	"version": "0.2.1",
+	"description": "Leaflet.StyledLayer",
 	"license": "MIT",
 	"devDependencies": {
 		"jshint": "~2.1.4",
